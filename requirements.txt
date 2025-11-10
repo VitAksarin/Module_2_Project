@@ -1,0 +1,7 @@
+SQLAlchemy: 1.4.15
+psycopg2: 2.9.2 (dt dec pq3 ext lo64)
+pandas: 1.2.4
+matplotlib: 3.3.4
+seaborn: 0.11.1
+numpy: 1.21.1
+phik: 0.12.5
